@@ -261,7 +261,7 @@ nav a:hover {
 .about-photo {
     height: 430px;
     overflow: hidden;
-    margin-top: -24px;
+    margin-top: -60px;
 }
 
 .about-photo img {
@@ -909,7 +909,7 @@ footer {
 
     .about-photo {
         height: 500px;
-        margin-top: -18px;
+        margin-top: -45px;
     }
 
     .work-grid {
